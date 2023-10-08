@@ -90,11 +90,18 @@ Hotel management system should allow users to efficiently manage guest reservati
 ![Additional page (3)](https://github.com/EronFatah/ACP/assets/91766768/388025d4-7124-4b15-b25f-ba89d1644d18)
   
 
+## Hardware and System Requirements:  
+1.computer  
+2.server  
+
 ## The Tools and Programming Languages 
 Programming Language :   
 Java    
+Dbms :  
+Mysql  
 Tools:   
-IntelliJ   
+IntelliJ  
+Git  
 GitHub  
 
 
