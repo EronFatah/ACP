@@ -1,7 +1,10 @@
 # ACP
 Hotel management system should allow users to efficiently manage guest reservations, check-ins, and check-outs, including room assignment and availability tracking. It should provide billing and invoicing capabilities, enabling the generation of bills and processing of payments. The system should also offer reporting and analytics features for monitoring occupancy rates, revenue, and guest information.
 
+
+
 Requirements in detail:
+
 
 •	The system should enable customer to check for availability of rooms. 
 •	The system should allow customer to confirm or cancel the booking.
@@ -13,6 +16,8 @@ Requirements in detail:
 •	The system must make the hotel services fully known to the customer such as the room details and pricing.
 
 
+
+
 List of Modules: 
 •	Customer Information
 •	Rooms
@@ -20,6 +25,7 @@ List of Modules:
 •	Food
 •	Check Out and Payments
  
+
 
 
 
@@ -44,23 +50,30 @@ The System include:
  
 
 
+
+
+
 Functional requirements
+
 
 •	booking/reservation
 •	Check customer details
 •	Cancelation 
-•         modification booking
-•         modification customer information
+• modification booking
+• modification customer information
 •	Rooms details
 •	Update room status
 •	Detail of current day
 •	Detail of coming day
 •	Can know the daily income
-• 	know customers payments / debt
+• know customers payments / debt
 •	Fill reservation form
 •	Get reservation receipt
 •	Get facilities of hotel like restaurant (breakfast , car parking, internet access , room service )
 •	Get information about reserved rooms (if room is already reserved or not/ Check room availability)
+
+
+
 
 
 Roles
