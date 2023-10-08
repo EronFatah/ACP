@@ -30,24 +30,24 @@ List of Modules: <br>
 
 
 
-The System include:<br>
+The System include:  
  
  
-•	Customer first name / last name<br>
-•	Customer country /address / Email<br>
-•	Customer phone number<br>
-•	Room availability / room number / room rate<br>
-•	Room/Food prices<br>
-•	Number of nights<br>
-•	Booking date<br>
-•	cancellation date<br>
-•	check-in date / time<br>
-•	check-out date / time<br>
-•	Payment received (yes/no)<br>
-•	debt<br>
-•	Meal type / items<br>
+•	Customer first name / last name  
+•	Customer country /address / Email  
+•	Customer phone number  
+•	Room availability / room number / room rate  
+•	Room/Food prices  
+•	Number of nights  
+•	Booking date  
+•	cancellation date  
+•	check-in date / time  
+•	check-out date / time  
+•	Payment received (yes/no)  
+•	debt  
+•	Meal type / items  
 •	Total Bill 
- <br>
+   
 
 
 
