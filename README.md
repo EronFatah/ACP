@@ -3,7 +3,7 @@ Hotel management system should allow users to efficiently manage guest reservati
 
   
   
-Requirements in detail:
+## Requirements in detail:
 
        
 •	The system should enable customer to check for availability of rooms.   
@@ -18,7 +18,7 @@ Requirements in detail:
 
 
 
-List of Modules:  
+## List of Modules:  
 •	Customer Information  
 •	Rooms  
 •	Booking  
@@ -30,7 +30,7 @@ List of Modules:
 
 
 
-The System include:  
+## The System include:  
  
  
 •	Customer first name / last name  
@@ -53,7 +53,7 @@ The System include:
 
 
 
-Functional requirements
+## Functional requirements
 
 
 •	booking/reservation  
@@ -76,7 +76,7 @@ Functional requirements
 
 
 
-Roles  
+## Roles  
   
 •	User (Receptionist): The user, such as a receptionist or concierge, should have the capability to efficiently handle room reservations, guest services, billing, room status updates, and provide assistance to guests.  
   
@@ -98,7 +98,7 @@ IntelliJ
 GitHub  
 
 
- Goals 
+## Goals 
  
 The primary goal of a hotel management system is to efficiently and effectively manage all aspects of a hotel's operations, including reservations, guest services, billing, and staff management, to provide exceptional customer experiences. Additionally, it aims to optimize revenue generation and cost control, ensuring the hotel's profitability and long-term success in a competitive industry.
 
