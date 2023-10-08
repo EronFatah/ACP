@@ -1,29 +1,29 @@
 # ACP
 Hotel management system should allow users to efficiently manage guest reservations, check-ins, and check-outs, including room assignment and availability tracking. It should provide billing and invoicing capabilities, enabling the generation of bills and processing of payments. The system should also offer reporting and analytics features for monitoring occupancy rates, revenue, and guest information.
 
-<br>
-
+  
+  
 Requirements in detail:
-<br>
 
-•	The system should enable customer to check for availability of rooms. <br>
-•	The system should allow customer to confirm or cancel the booking.<br>
-•	The system should record booking details into database.<br>
-•	The system should record customers information.<br>
-•	The system must have access levels based on user roles such as Manager-Administrator-Guest-Receptionist-Other staff.<br>
-•	The system must carry out only actions specified by the user (browse, modify, delete, add).<br>
-•	The system should enable manager full modification access to customer, booking and room information.<br>
-•	The system must make the hotel services fully known to the customer such as the room details and pricing.<br>
-
-
+       
+•	The system should enable customer to check for availability of rooms.  
+•	The system should allow customer to confirm or cancel the booking.  
+•	The system should record booking details into database. 
+•	The system should record customers information. 
+•	The system must have access levels based on user roles such as Manager-Administrator-Guest-Receptionist-Other staff.  
+•	The system must carry out only actions specified by the user (browse, modify, delete, add).  
+•	The system should enable manager full modification access to customer, booking and room information.  
+•	The system must make the hotel services fully known to the customer such as the room details and pricing.  
 
 
-List of Modules: <br>
-•	Customer Information<br>
-•	Rooms<br>
-•	Booking<br>
-•	Food<br>
-•	Check Out and Payments<br>
+
+
+List of Modules:  
+•	Customer Information  
+•	Rooms  
+•	Booking  
+•	Food  
+•	Check Out and Payments  
  
 
 
