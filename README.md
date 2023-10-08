@@ -96,13 +96,13 @@ Hotel management system should allow users to efficiently manage guest reservati
 
 ## The Tools and Programming Languages 
 Programming Language :   
-Java    
+ Java    
 Dbms :  
-Mysql  
+ Mysql  
 Tools:   
-IntelliJ  
-Git  
-GitHub  
+ IntelliJ  
+ Git  
+ GitHub  
 
 
 ## Goals 
