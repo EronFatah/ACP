@@ -8,7 +8,7 @@ Requirements in detail:
        
 •	The system should enable customer to check for availability of rooms.  
 •	The system should allow customer to confirm or cancel the booking.  
-•	The system should record booking details into database. 
+•	The system should record booking details into database.   
 •	The system should record customers information.   
 •	The system must have access levels based on user roles such as Manager-Administrator-Guest-Receptionist-Other staff.  
 •	The system must carry out only actions specified by the user (browse, modify, delete, add).  
