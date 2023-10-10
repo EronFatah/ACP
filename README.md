@@ -112,6 +112,6 @@ The primary goal of a hotel management system is to efficiently and effectively 
 
 
 ## Team:-  
-Eron Fatah Rahman (eronrahman35@gmial.com)    
+Eron Fatah Rahman (eronrahman35@gmail.com)    
 
 
