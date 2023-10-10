@@ -30,7 +30,7 @@ Hotel management system should allow users to efficiently manage guest reservati
 
 
 
-## The System include:  
+## The System working on these fields: 
  
  
 •	Customer first name / last name  
@@ -53,7 +53,7 @@ Hotel management system should allow users to efficiently manage guest reservati
 
 
 
-## Functional requirements
+## Functional requirements:-
 
 
 •	booking/reservation  
@@ -108,4 +108,10 @@ Tools:
 ## Goals 
  
 The primary goal of a hotel management system is to efficiently and effectively manage all aspects of a hotel's operations, including reservations, guest services, billing, and staff management, to provide exceptional customer experiences. Additionally, it aims to optimize revenue generation and cost control, ensuring the hotel's profitability and long-term success in a competitive industry.
+
+
+
+##Team:-
+Eron Fatah Rahman (eronrahman35@gmial.com)  
+
 
